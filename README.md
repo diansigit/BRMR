@@ -1,4 +1,4 @@
-=== BrMobileResponsiveness ===
+# BrMobileResponsiveness #
 Contributors: diansigitp
 Tags: mobile,responsive,bazaar-rakyat
 Requires at least: 4.8
@@ -10,20 +10,20 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
 Mobile Responsive plugin for marketo theme bazaar rakyat
 
-== Description ==
+## Description ##
 BrMobileResponsiveness is plugin for better experience UI/UX mobile device for bazaar rakyat site.
 
-= Features =
+### Features ###
 
 * Mobile Responsive
 
-== Installation ==
-= Minimum Requirements =
+## Installation ##
+#### Minimum Requirements ####
 
 * WordPress 4.8 or later
 * WooCommerce 3.0 or later
 
-= MANUAL INSTALLATION =
+#### Manual Installation ####
 
 1. Download the plugin zip file to your computer
 1. Go to the WordPress admin panel menu Plugins > Add New
@@ -31,12 +31,12 @@ BrMobileResponsiveness is plugin for better experience UI/UX mobile device for b
 1. Upload the plugin zip file, the plugin will now be installed
 1. After installation has finished, click the ‘activate plugin’ link
 
-== Changelog ==
+## Changelog ##
 
-= 1.0.4 =
+#### 1.0.4 ####
 
 * Fixing column on order received and order account
 
-= 1.0.0 =
+#### 1.0.0 ####
 
 * Mobile Responsive
